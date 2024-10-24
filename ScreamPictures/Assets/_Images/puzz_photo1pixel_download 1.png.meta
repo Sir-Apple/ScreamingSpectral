@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 46d73deda11919743bdb77bcf5c5d970
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddca23450e726b45a35cefb42a9f094
+      internalID: -358809218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec239525dc00ab4dbaf96b23e9caf4a
+      internalID: -1323470947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69aee70093e6e84e96ec857002a12f5
+      internalID: -161732614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27e9d475e297a4f804812792561ca8
+      internalID: -1716940927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2a6eafb18fa348ad8cba3251da5ee
+      internalID: 2303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 431
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66c41e56ce4104dbef0ad20b458716
+      internalID: -131850912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4f214528757747ac54410d434710d
+      internalID: -630281996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5100492a02402624198c6ab97c01bfe4
+      internalID: -9186501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0160a428b65640b274d3e285cd65d
+      internalID: 941913109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e8389dc13c89c4fa63f517a072614f
+      internalID: 698415702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4d48c04ae3aa45aaccb7432dbbd62
+      internalID: -455104093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 346
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1e2d5af002e234b85590a830bf9113
+      internalID: 978732414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9b9124f12ad947a5c2b4773e6d6bf
+      internalID: 921721257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da28f6891033d4684b9c59b3d3ca76
+      internalID: 166403400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fa22533e2a67f4f8df05af4d726fcf
+      internalID: -100609599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0722adb9f41b44687c40ef26f2ca72
+      internalID: 495212089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7abe0304a1dd94fb6b7c36ced0bd56
+      internalID: -1554926842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 261
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506aa049587e434ab51a6ef1025fff7
+      internalID: 146740616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212aeb1454728fd4d88ec85b96510b20
+      internalID: 1854897023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e712d81e2b7a521489042fc25c6f4fe7
+      internalID: -1628368023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12a7eec6d47f3c49a1f5c61a84b863e
+      internalID: 1595955055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db4ba85833fa44da2ab9ae948c3513
+      internalID: -1556009909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a474eb42083997a4697629569d8c14a1
+      internalID: -34077819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 176
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895740cd522d54d4bb7306a707f14f5d
+      internalID: 54242730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b8fe22d5a5df49a94c5e0bdda0d44
+      internalID: 1208139065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6eeed2badf5c4459db8a4ad32a900d
+      internalID: 1669038651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f136098090598c54cbafb15c64037e35
+      internalID: -155215536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f6358c038a3644b3e7c083bcd5d8d
+      internalID: 491625741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7c0a82214a0641882217f3dc499ce
+      internalID: 146459761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 91
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fde3f73e61474f81d8a3926164629
+      internalID: -1906721744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e7f03697337e4ea51dd8f98dbe804
+      internalID: -1201978678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32abb23d111b9244e8ea7f4ce3e4da9e
+      internalID: -978216786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea8f22d3302d0c4ba28474e36aeb300
+      internalID: -1468987900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092a924df0c3ea49baa868ba54c8020
+      internalID: 1887303226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e371a93b46fc4f91be0783882f88c
+      internalID: 240075634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puzz_photo1pixel_download 1_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910222dda866228498f8890ce1e8ff12
+      internalID: -156356964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      puzz_photo1pixel_download 1_35: -156356964
+      puzz_photo1pixel_download 1_13: 166403400
+      puzz_photo1pixel_download 1_16: -1554926842
+      puzz_photo1pixel_download 1_10: -455104093
+      puzz_photo1pixel_download 1_18: 1854897023
+      puzz_photo1pixel_download 1_14: -100609599
+      puzz_photo1pixel_download 1_2: -161732614
+      puzz_photo1pixel_download 1_8: 941913109
+      puzz_photo1pixel_download 1_7: -9186501
+      puzz_photo1pixel_download 1_26: -155215536
+      puzz_photo1pixel_download 1_5: -131850912
+      puzz_photo1pixel_download 1_20: 1595955055
+      puzz_photo1pixel_download 1_28: 146459761
+      puzz_photo1pixel_download 1_11: 978732414
+      puzz_photo1pixel_download 1_22: -34077819
+      puzz_photo1pixel_download 1_27: 491625741
+      puzz_photo1pixel_download 1_24: 1208139065
+      puzz_photo1pixel_download 1_15: 495212089
+      puzz_photo1pixel_download 1_32: -1468987900
+      puzz_photo1pixel_download 1_19: -1628368023
+      puzz_photo1pixel_download 1_30: -1201978678
+      puzz_photo1pixel_download 1_3: -1716940927
+      puzz_photo1pixel_download 1_23: 54242730
+      puzz_photo1pixel_download 1_25: 1669038651
+      puzz_photo1pixel_download 1_34: 240075634
+      puzz_photo1pixel_download 1_33: 1887303226
+      puzz_photo1pixel_download 1_17: 146740616
+      puzz_photo1pixel_download 1_0: -358809218
+      puzz_photo1pixel_download 1_12: 921721257
+      puzz_photo1pixel_download 1_31: -978216786
+      puzz_photo1pixel_download 1_21: -1556009909
+      puzz_photo1pixel_download 1_1: -1323470947
+      puzz_photo1pixel_download 1_9: 698415702
+      puzz_photo1pixel_download 1_29: -1906721744
+      puzz_photo1pixel_download 1_4: 2303744
+      puzz_photo1pixel_download 1_6: -630281996
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
