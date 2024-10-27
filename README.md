@@ -17,3 +17,4 @@ Try to memorize the sample image on your left, otherwise, when the time is almos
 When you are lost, you may get jumpscared with screaming sound.
 
 ## Downloading and Testing
+Play and download the game here: https://sadapple.itch.io/mini-game-screaming-spectral-images
