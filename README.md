@@ -1,4 +1,4 @@
-# ScreamingSpectral
+# Screaming Spectral Images
 ## Technology used:
 - Unity
 - C#
@@ -12,7 +12,7 @@ This is a mini and short spooky rotating puzzle game which requires you to solve
 
 Only Medium and Hard difficulty level, there will be no Easy.
 
-Try to memorize the sample image on your left, otherwise, when the time is almost out, a blinking ghost face will blinking all the sample image.
+Try to memorize the reference image on your left, otherwise, when the time is almost out, a blinking ghost face will blinking right at the reference ​image.
 
 When you are lost, you may get jumpscared with screaming sound.
 
