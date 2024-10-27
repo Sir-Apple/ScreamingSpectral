@@ -133,7 +133,7 @@ public class GameControl : MonoBehaviour
 		mainMenuButton.gameObject.SetActive(true);
 	}
 
-	// Coroutine to make the image blink with low opacity
+	// Blink image
 	private IEnumerator BlinkImage()
 	{
 		isBlinking = true;

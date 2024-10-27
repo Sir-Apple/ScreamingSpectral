@@ -5,29 +5,29 @@ using UnityEngine.SceneManagement;
 
 public class SceneController : MonoBehaviour
 {
-	// Function to load the Main Menu scene
+	// Load the Main Menu scene
 	public void LoadMainMenu()
 	{
-		SceneManager.LoadScene("MainMenu"); // Replace with your actual Main Menu scene name
+		SceneManager.LoadScene("MainMenu");
 	}
 
-	// Function to load the Main Game scene
+	// Load the Main Game scene
 	public void LoadHardGame()
 	{
-		SceneManager.LoadScene("Main"); // Replace with your actual Main Game scene name
+		SceneManager.LoadScene("Main");
 	}
 	public void LoadEasyGame()
 	{
-		SceneManager.LoadScene("Main1"); // Replace with your actual Main Game scene name
+		SceneManager.LoadScene("Main1");
 	}
 
-	// Function to reload the current scene (useful for restarting the game)
+	// Reload the current scene
 	public void ReloadCurrentScene()
 	{
 		SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 	}
 
-	// Function to load a scene asynchronously (optional for smoother transitions)
+	// Load a scene asynchronously (optional for smoother transitions)
 	public void LoadSceneAsync(string sceneName)
 	{
 		StartCoroutine(LoadSceneAsyncCoroutine(sceneName));
@@ -46,10 +46,10 @@ public class SceneController : MonoBehaviour
 		}
 	}
 
-	// Function to quit the application (works only in the built game)
+	// Quit the application (works only in the built game)
 	public void QuitGame()
 	{
 		Application.Quit();
-		Debug.Log("Game is exiting..."); // This is to test in the editor, as Application.Quit() only works in a build
+		Debug.Log("Game is exiting...");
 	}
 }
