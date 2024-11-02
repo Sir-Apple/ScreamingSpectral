@@ -1,5 +1,5 @@
 # Screaming Spectral Images
-## Technology used:
+Technology used:
 - Unity
 - C#
 - HTML5
